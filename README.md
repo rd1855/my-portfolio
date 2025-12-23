@@ -1,5 +1,5 @@
 📁 Rohit Desai - Professional DevOps Portfolio
-https://img.shields.io/badge/Status-Live-brightgreen https://img.shields.io/badge/Version-2.0-blue https://img.shields.io/badge/React-18.2-blue https://img.shields.io/badge/Node.js-18-green https://img.shields.io/badge/License-MIT-yellow
+
 
 A modern, professional portfolio website built with MERN stack showcasing DevOps, Cloud Engineering, and Full-Stack Development expertise. Features responsive design, real-time analytics, and interactive UI components.
 
