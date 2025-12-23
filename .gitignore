@@ -1,0 +1,57 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+.terraform.tfstate.lock.info
+
+# Ansible
+*.retry
+.vault_pass
+
+# Kubernetes
+kubeconfig
+*.kubeconfig
+
+# AWS
+*.aws
+.aws/
+
+# Azure
+.azure/
+
+# Google Cloud
+.gcloud/
+*.gcp
+
+# Packer
+packer_cache/
+*.box
+
+# Vagrant
+.vagrant/
+
+# CI/CD
+.circleci/
+.travis.yml
+.gitlab-ci.yml
+.github/workflows/*.yml
+
+# SSH
+*.pem
+*.ppk
+id_rsa
+id_dsa
+
+# Backup files
+*.backup
+*.bak
+
+# Logs
+*.log
+logs/
+
+# Secrets
+secrets/
+*.secret
+.env
